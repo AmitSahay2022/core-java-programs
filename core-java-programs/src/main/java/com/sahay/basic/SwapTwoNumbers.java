@@ -1,6 +1,6 @@
 package com.sahay.basic;
 /*
- * Swap two numbers
+ * Swap two numbers using temp variable
  */
 public class SwapTwoNumbers {
 	
