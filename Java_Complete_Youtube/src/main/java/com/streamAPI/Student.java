@@ -9,10 +9,10 @@ public class Student {
     private String gender;
     private String dept;
     private String city;
-    private int rank;
+    private Integer rank;
     private List<String> contacts;
 
-    public Student(String id, String name, String gender, String dept, String city, int rank, List<String> contacts) {
+    public Student(String id, String name, String gender, String dept, String city, Integer rank, List<String> contacts) {
         this.id = id;
         this.name = name;
         this.gender = gender;
@@ -62,7 +62,7 @@ public class Student {
         this.city = city;
     }
 
-    public int getRank() {
+    public Integer getRank() {
         return rank;
     }
 
