@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Java_Complete_Youtube</artifactId>
+    <artifactId>KG_Coding_CoreJava</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,14 +13,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.8.0</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
-
 
 </project>
