@@ -26,9 +26,12 @@ public class ArrayMarge2SortedArray {
 	}
 
 	public static void main(String[] args) {
+		int[] arr1={2,3,4,8};
+        int[] arr2={1,5,7,9,10};
 		int[] num1= {1,3,5,7,9,88,99,123,200};
 		int[] num2= {2,4,6,8,10,11,34};
         System.out.println(Arrays.toString(marge(num1, num2)));
+        System.out.println(Arrays.toString(marge(arr1, arr2)));
 		marge(num1, num2);
 	}
 
