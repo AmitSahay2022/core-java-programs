@@ -12,4 +12,10 @@
 (Q4) Why ByteCode? <br>
      It is a varified code, not humen readable hence can be freely distributed without exposing our code <br>
      can run on any JVM. Note JVM is Machine dependent and it convert .class file to machine code.<br> 
+(Q5) Why Java?
+     It is portable (write once than run on any machine which has JVM)<br>
+     It is secure because it runs on vertual machine. <br>
+     It is Object Oriented and after JDK 1.8 it also supports Functional programming <br>
+     It is robust (because of strong memory management,type checking, exception handling) hence prevent system crash<br>
+           and improve performance<br> in java there is no chance of actual system crash only JVM can crash<br>
 
