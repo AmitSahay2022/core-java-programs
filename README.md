@@ -9,3 +9,7 @@
      (b) Encapsulation-> keep all the data private and provide getter/setter to access it <br>
      (c) Inheritance-> one entity can inherit property or behaviour from other entity <br>
      (d) Polymorphism-> Acchieving different functionality or behaviour. method overloading/overriding <br>
+(Q4) Why ByteCode? <br>
+     It is a varified code, not humen readable hence can be freely distributed without exposing our code <br>
+     can run on any JVM. Note JVM is Machine dependent and it convert .class file to machine code.<br> 
+
