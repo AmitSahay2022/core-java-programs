@@ -2,8 +2,9 @@
       My name is amit kumar and i have 5 years of experience in java programming, Spring boot. <br>
 (Q2) What features of core java you have used in your project?<br>
       OOPS, Exception Handling, Collections, Lambda, Streams<br>
-(Q3) What is Oops?
-     Object oriented Programming --> while writting code if we think about objects than it is object oriented<br>
+(Q3) What is Oops?<br>
+     while writting code if our focus is what to do than it is functional/procedural programming <br>
+     but if our focus is on data on which we have to perform task than it is OOPS <br>     
      it has 4 features <br>
      (a) Abstraction-> Hide internal details/complexity and expose only functionality <br>
      (b) Encapsulation-> keep all the data private and provide getter/setter to access it <br>
